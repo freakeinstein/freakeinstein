@@ -11,6 +11,7 @@ I love to learn, design, and collaborate with greatest minds to build complex sy
 I believe that technology and innovarion has always been driven by the community, and dynamic markets **outside the closed walls**.
 
 ## Connect with me:
+I share my crazy thoughts occasionally at [Medium](https://medium.com/a-mma).
 
 <a href="https://www.linkedin.com/in/jubin-jose-dev/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
