@@ -8,7 +8,7 @@ All my life's role play is split into only two simple things:
 
 I love to learn, design, and collaborate with greatest minds to build complex systems that stays at the boundaries of technology.
 
-I believe that technology and innovarion has always been driven by the community, and dynamic markets **outside the closed walls**.
+I believe that technology and innovation have always been driven by the community, and dynamic markets **outside the closed walls**.
 
 ## Connect with me:
 I share my crazy thoughts occasionally at [Medium](https://medium.com/a-mma).
