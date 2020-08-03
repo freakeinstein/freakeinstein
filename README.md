@@ -3,7 +3,7 @@
 Hey, I'm a software developer and an open source contributor. 
 
 All my life's role play is split into only two simple things:
-* Senior NLP Developer at [Accubits](https://accubits.com/) - which buy me daily coffee and pay bills
+* Been 4 years in the industry. Currently, Senior NLP Developer - which buy me daily coffee and pay bills
 * Creator and developer at [AquilaDB](https://aquiladb.xyz) - which is my contribution to the future (10 - 20 yrs) of technology
 
 I love to learn, design, and collaborate with greatest minds to build complex systems that stays at the boundaries of technology.
