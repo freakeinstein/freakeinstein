@@ -13,7 +13,7 @@ I believe that technology and innovation have always been driven by the communit
 Large & slow systems will get replaced by more efficient ones (inc. governments). So, anybody should be able to choose their jurisdictions of participation to survive this. I believe the Internet will enable this.
 
 ## Connect with me:
-I share my crazy thoughts occasionally at [Medium](https://medium.com/a-mma).
+I share my crazy thoughts occasionally at [Medium](https://medium.com/@josejubin).
 
 <a href="https://www.linkedin.com/in/jubin-jose-dev/">
     <img align="left" alt="Jubin Jose | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
